@@ -156,4 +156,11 @@ Future research directions include:
 1. Vaswani, A., et al. (2017). Attention is all you need. In Advances in neural information processing systems.
 2. Devlin, J., et al. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
 3. Sweet, P. L. (2019). The sociology of gaslighting. American Sociological Review, 84(5), 851-875.
-4. Park, J., et al. (2021). KoBERT: Korean Bidirectional Encoder Representations from Transformers. arXiv preprint arXiv:2103.11886. 
+4. Park, J., et al. (2021). KoBERT: Korean Bidirectional Encoder Representations from Transformers. arXiv preprint arXiv:2103.11886.
+
+
+Raw Source  
+1. **한국어 SNS 다중 턴 대화 데이터셋**: 8,742개의 대화 세션, 평균 15.3개의 발화로 구성됩니다.
+   https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71694
+2. **감정 태그가 있는 청소년 자유 대화 데이터셋**: 9,477개의 대화 세션, 7가지 기본 감정과 3가지 강도 수준으로 태그됩니다.
+   https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71632
