@@ -113,7 +113,9 @@ BERT-LSTM 하이브리드 모델은 다음과 같은 레이어로 구성됩니�
 본 프로젝트는 다음과 같은 AI Hub 데이터셋을 사용합니다:
 
 1. **한국어 SNS 다중 턴 대화 데이터셋**: 8,742개의 대화 세션, 평균 15.3개의 발화로 구성됩니다.
+   https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71694
 2. **감정 태그가 있는 청소년 자유 대화 데이터셋**: 9,477개의 대화 세션, 7가지 기본 감정과 3가지 강도 수준으로 태그됩니다.
+   https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71632
 
 ## 평가 결과
 
@@ -131,8 +133,8 @@ BERT-LSTM 하이브리드 모델은 다음과 같은 레이어로 구성됩니�
 
 ## 연락처
 
-- 이메일: your.email@example.com
-- 웹사이트: https://example.com
+- 이메일: uvgotmail@nate.com
+
 
 ## 참고 문헌
 
