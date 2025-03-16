@@ -1,0 +1,177 @@
+2025-03-03 21:25:52,135 - __main__ - INFO - EmPath 통합 모델 훈련/평가 시작...
+2025-03-03 21:25:54,939 - __main__ - INFO - EmPath 통합 모델 훈련/평가 완료!
+2025-03-03 21:27:06,494 - __main__ - INFO - EmPath 통합 모델 훈련/평가 시작...
+2025-03-03 21:27:09,255 - __main__ - INFO - 예제 텍스트로 모델 테스트 중...
+2025-03-03 21:27:09,255 - __main__ - INFO - 테스트 예제 1/4: 요즘 학교에서 친구들이 자꾸 나를 놀려요. 집에 가기가 싫어요.
+2025-03-03 21:27:09,532 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:27:09,533 - __main__ - INFO - 테스트 예제 2/4: 부모님이 자꾸 싸우셔서 집에 가기가 무서워요. 어떨 때는 소리를 너무 지르셔서 이불 속에 숨어있어요.
+2025-03-03 21:27:09,594 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:27:09,596 - __main__ - INFO - 테스트 예제 3/4: 시험을 잘 봐서 기분이 좋아요. 부모님도 많이 칭찬해주셨어요.
+2025-03-03 21:27:09,652 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:27:09,652 - __main__ - INFO - 테스트 예제 4/4: 친구가 자기 죽고 싶다고 했어요. 어떻게 해야 할지 모르겠어요. 도와주세요.
+2025-03-03 21:27:09,705 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:27:09,705 - __main__ - INFO - EmPath 통합 모델 훈련/평가 완료!
+2025-03-03 21:28:37,599 - __main__ - INFO - EmPath 통합 모델 훈련/평가 시작...
+2025-03-03 21:28:41,014 - __main__ - INFO - 예제 텍스트로 모델 테스트 중...
+2025-03-03 21:28:41,014 - __main__ - INFO - 테스트 예제 1/4: 요즘 학교에서 친구들이 자꾸 나를 놀려요. 집에 가기가 싫어요.
+2025-03-03 21:28:41,269 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:28:41,269 - __main__ - INFO - 테스트 예제 2/4: 부모님이 자꾸 싸우셔서 집에 가기가 무서워요. 어떨 때는 소리를 너무 지르셔서 이불 속에 숨어있어요.
+2025-03-03 21:28:41,316 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:28:41,316 - __main__ - INFO - 테스트 예제 3/4: 시험을 잘 봐서 기분이 좋아요. 부모님도 많이 칭찬해주셨어요.
+2025-03-03 21:28:41,366 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:28:41,367 - __main__ - INFO - 테스트 예제 4/4: 친구가 자기 죽고 싶다고 했어요. 어떻게 해야 할지 모르겠어요. 도와주세요.
+2025-03-03 21:28:41,418 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:28:41,418 - __main__ - INFO - EmPath 통합 모델 훈련/평가 완료!
+2025-03-03 21:29:27,542 - __main__ - INFO - EmPath 통합 모델 훈련/평가 시작...
+2025-03-03 21:29:31,112 - __main__ - INFO - 예제 텍스트로 모델 테스트 중...
+2025-03-03 21:29:31,112 - __main__ - INFO - 테스트 예제 1/4: 요즘 학교에서 친구들이 자꾸 나를 놀려요. 집에 가기가 싫어요.
+2025-03-03 21:29:31,360 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:29:31,360 - __main__ - INFO - 테스트 예제 2/4: 부모님이 자꾸 싸우셔서 집에 가기가 무서워요. 어떨 때는 소리를 너무 지르셔서 이불 속에 숨어있어요.
+2025-03-03 21:29:31,408 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:29:31,409 - __main__ - INFO - 테스트 예제 3/4: 시험을 잘 봐서 기분이 좋아요. 부모님도 많이 칭찬해주셨어요.
+2025-03-03 21:29:31,463 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:29:31,463 - __main__ - INFO - 테스트 예제 4/4: 친구가 자기 죽고 싶다고 했어요. 어떻게 해야 할지 모르겠어요. 도와주세요.
+2025-03-03 21:29:31,512 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:29:31,512 - __main__ - INFO - EmPath 통합 모델 훈련/평가 완료!
+2025-03-03 21:29:59,070 - __main__ - INFO - EmPath 통합 모델 훈련/평가 시작...
+2025-03-03 21:30:09,632 - __main__ - INFO - 예제 텍스트로 모델 테스트 중...
+2025-03-03 21:30:09,632 - __main__ - INFO - 테스트 예제 1/4: 요즘 학교에서 친구들이 자꾸 나를 놀려요. 집에 가기가 싫어요.
+2025-03-03 21:30:09,632 - __main__ - INFO - 분석 시작...
+2025-03-03 21:30:09,872 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:30:09,872 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\dev4\empathy4youth\scripts\train_integrated_model.py", line 307, in test_examples
+    analysis = model.analyze(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 484, in analyze
+    crisis_analysis = self.analyze_crisis_level(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 250, in analyze_crisis_level
+    pred_crisis = self.crisis_model["inv_label_mapping"][str(int(pred_label))]
+KeyError: '3'
+
+2025-03-03 21:30:09,873 - __main__ - INFO - 테스트 예제 2/4: 부모님이 자꾸 싸우셔서 집에 가기가 무서워요. 어떨 때는 소리를 너무 지르셔서 이불 속에 숨어있어요.
+2025-03-03 21:30:09,873 - __main__ - INFO - 분석 시작...
+2025-03-03 21:30:09,919 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:30:09,920 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\dev4\empathy4youth\scripts\train_integrated_model.py", line 307, in test_examples
+    analysis = model.analyze(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 484, in analyze
+    crisis_analysis = self.analyze_crisis_level(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 250, in analyze_crisis_level
+    pred_crisis = self.crisis_model["inv_label_mapping"][str(int(pred_label))]
+KeyError: '3'
+
+2025-03-03 21:30:09,920 - __main__ - INFO - 테스트 예제 3/4: 시험을 잘 봐서 기분이 좋아요. 부모님도 많이 칭찬해주셨어요.
+2025-03-03 21:30:09,920 - __main__ - INFO - 분석 시작...
+2025-03-03 21:30:09,969 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:30:09,970 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\dev4\empathy4youth\scripts\train_integrated_model.py", line 307, in test_examples
+    analysis = model.analyze(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 484, in analyze
+    crisis_analysis = self.analyze_crisis_level(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 250, in analyze_crisis_level
+    pred_crisis = self.crisis_model["inv_label_mapping"][str(int(pred_label))]
+KeyError: '3'
+
+2025-03-03 21:30:09,970 - __main__ - INFO - 테스트 예제 4/4: 친구가 자기 죽고 싶다고 했어요. 어떻게 해야 할지 모르겠어요. 도와주세요.
+2025-03-03 21:30:09,971 - __main__ - INFO - 분석 시작...
+2025-03-03 21:30:10,019 - __main__ - ERROR - 예제 분석 중 오류 발생: '3'
+2025-03-03 21:30:10,020 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\dev4\empathy4youth\scripts\train_integrated_model.py", line 307, in test_examples
+    analysis = model.analyze(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 484, in analyze
+    crisis_analysis = self.analyze_crisis_level(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 250, in analyze_crisis_level
+    pred_crisis = self.crisis_model["inv_label_mapping"][str(int(pred_label))]
+KeyError: '3'
+
+2025-03-03 21:30:10,020 - __main__ - INFO - EmPath 통합 모델 훈련/평가 완료!
+2025-03-03 21:31:10,360 - __main__ - INFO - EmPath 통합 모델 훈련/평가 시작...
+2025-03-03 21:31:13,825 - __main__ - INFO - 예제 텍스트로 모델 테스트 중...
+2025-03-03 21:31:13,826 - __main__ - INFO - 테스트 예제 1/4: 요즘 학교에서 친구들이 자꾸 나를 놀려요. 집에 가기가 싫어요.
+2025-03-03 21:31:13,826 - __main__ - INFO - 분석 시작...
+2025-03-03 21:31:14,279 - __main__ - ERROR - 예제 분석 중 오류 발생: '1'
+2025-03-03 21:31:14,280 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\dev4\empathy4youth\scripts\train_integrated_model.py", line 307, in test_examples
+    analysis = model.analyze(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 510, in analyze
+    aspect_sentiment_analysis = self.analyze_aspect_sentiment(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 375, in analyze_aspect_sentiment
+    aspect = self.aspect_sentiment_model["inv_aspect_mapping"][str(int(pred_aspect))]
+KeyError: '1'
+
+2025-03-03 21:31:14,280 - __main__ - INFO - 테스트 예제 2/4: 부모님이 자꾸 싸우셔서 집에 가기가 무서워요. 어떨 때는 소리를 너무 지르셔서 이불 속에 숨어있어요.
+2025-03-03 21:31:14,281 - __main__ - INFO - 분석 시작...
+2025-03-03 21:31:14,524 - __main__ - ERROR - 예제 분석 중 오류 발생: '1'
+2025-03-03 21:31:14,525 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\dev4\empathy4youth\scripts\train_integrated_model.py", line 307, in test_examples
+    analysis = model.analyze(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 510, in analyze
+    aspect_sentiment_analysis = self.analyze_aspect_sentiment(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 375, in analyze_aspect_sentiment
+    aspect = self.aspect_sentiment_model["inv_aspect_mapping"][str(int(pred_aspect))]
+KeyError: '1'
+
+2025-03-03 21:31:14,525 - __main__ - INFO - 테스트 예제 3/4: 시험을 잘 봐서 기분이 좋아요. 부모님도 많이 칭찬해주셨어요.
+2025-03-03 21:31:14,525 - __main__ - INFO - 분석 시작...
+2025-03-03 21:31:14,783 - __main__ - ERROR - 예제 분석 중 오류 발생: '1'
+2025-03-03 21:31:14,916 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\dev4\empathy4youth\scripts\train_integrated_model.py", line 307, in test_examples
+    analysis = model.analyze(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 510, in analyze
+    aspect_sentiment_analysis = self.analyze_aspect_sentiment(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 375, in analyze_aspect_sentiment
+    aspect = self.aspect_sentiment_model["inv_aspect_mapping"][str(int(pred_aspect))]
+KeyError: '1'
+
+2025-03-03 21:31:14,916 - __main__ - INFO - 테스트 예제 4/4: 친구가 자기 죽고 싶다고 했어요. 어떻게 해야 할지 모르겠어요. 도와주세요.
+2025-03-03 21:31:14,917 - __main__ - INFO - 분석 시작...
+2025-03-03 21:31:15,267 - __main__ - ERROR - 예제 분석 중 오류 발생: '1'
+2025-03-03 21:31:15,267 - __main__ - ERROR - Traceback (most recent call last):
+  File "D:\dev4\empathy4youth\scripts\train_integrated_model.py", line 307, in test_examples
+    analysis = model.analyze(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 510, in analyze
+    aspect_sentiment_analysis = self.analyze_aspect_sentiment(text)
+  File "D:\dev4\empathy4youth\src\models\integrated_model.py", line 375, in analyze_aspect_sentiment
+    aspect = self.aspect_sentiment_model["inv_aspect_mapping"][str(int(pred_aspect))]
+KeyError: '1'
+
+2025-03-03 21:31:15,268 - __main__ - INFO - EmPath 통합 모델 훈련/평가 완료!
+2025-03-03 21:31:50,228 - __main__ - INFO - EmPath 통합 모델 훈련/평가 시작...
+2025-03-03 21:31:53,843 - __main__ - INFO - 예제 텍스트로 모델 테스트 중...
+2025-03-03 21:31:53,844 - __main__ - INFO - 테스트 예제 1/4: 요즘 학교에서 친구들이 자꾸 나를 놀려요. 집에 가기가 싫어요.
+2025-03-03 21:31:53,844 - __main__ - INFO - 분석 시작...
+2025-03-03 21:31:54,340 - __main__ - INFO - 분석 완료!
+2025-03-03 21:31:54,341 - __main__ - INFO - - 위기 수준: 정상군
+2025-03-03 21:31:54,341 - __main__ - INFO - - 위험 점수: 0.2500
+2025-03-03 21:31:54,341 - __main__ - INFO - - 공감 응답: 그런 상황이라면 저도 비슷하게 느꼈을 것 같아요. 미래에 대한 부정적인 감정이 있으신 것 같아요. 그런 감정을 느끼는 것은 자연스러운 일입니다.
+2025-03-03 21:31:54,341 - __main__ - INFO - - 속성별 감정:
+2025-03-03 21:31:54,341 - __main__ - INFO -   * 미래: 부정 (1건)
+2025-03-03 21:31:54,341 - __main__ - INFO - 
+2025-03-03 21:31:54,341 - __main__ - INFO - 테스트 예제 2/4: 부모님이 자꾸 싸우셔서 집에 가기가 무서워요. 어떨 때는 소리를 너무 지르셔서 이불 속에 숨어있어요.
+2025-03-03 21:31:54,342 - __main__ - INFO - 분석 시작...
+2025-03-03 21:31:54,619 - __main__ - INFO - 분석 완료!
+2025-03-03 21:31:54,620 - __main__ - INFO - - 위기 수준: 정상군
+2025-03-03 21:31:54,620 - __main__ - INFO - - 위험 점수: 0.4500
+2025-03-03 21:31:54,620 - __main__ - INFO - - 공감 응답: 그런 경험을 했다니 정말 마음이 아프네요. 당신의 감정은 충분히 이해할 수 있어요. 학교, 미래에 대한 부정적인 감정이 있으신 것 같아요. 그런 감정을 느끼는 것은 자연스러운 일입니다.
+2025-03-03 21:31:54,620 - __main__ - INFO - - 속성별 감정:
+2025-03-03 21:31:54,620 - __main__ - INFO -   * 학교: 부정 (1건)
+2025-03-03 21:31:54,620 - __main__ - INFO -   * 미래: 부정 (1건)
+2025-03-03 21:31:54,621 - __main__ - INFO - 
+2025-03-03 21:31:54,621 - __main__ - INFO - 테스트 예제 3/4: 시험을 잘 봐서 기분이 좋아요. 부모님도 많이 칭찬해주셨어요.
+2025-03-03 21:31:54,621 - __main__ - INFO - 분석 시작...
+2025-03-03 21:31:54,936 - __main__ - INFO - 분석 완료!
+2025-03-03 21:31:54,936 - __main__ - INFO - - 위기 수준: 정상군
+2025-03-03 21:31:54,937 - __main__ - INFO - - 위험 점수: 0.4000
+2025-03-03 21:31:54,937 - __main__ - INFO - - 공감 응답: 그런 상황이라면 저도 비슷하게 느꼈을 것 같아요. 미래에 대한 부정적인 감정이 있으신 것 같아요. 그런 감정을 느끼는 것은 자연스러운 일입니다.
+2025-03-03 21:31:54,937 - __main__ - INFO - - 속성별 감정:
+2025-03-03 21:31:54,937 - __main__ - INFO -   * 미래: 부정 (2건)
+2025-03-03 21:31:54,937 - __main__ - INFO - 
+2025-03-03 21:31:54,938 - __main__ - INFO - 테스트 예제 4/4: 친구가 자기 죽고 싶다고 했어요. 어떻게 해야 할지 모르겠어요. 도와주세요.
+2025-03-03 21:31:54,938 - __main__ - INFO - 분석 시작...
+2025-03-03 21:31:55,364 - __main__ - INFO - 분석 완료!
+2025-03-03 21:31:55,365 - __main__ - INFO - - 위기 수준: 관찰필요
+2025-03-03 21:31:55,365 - __main__ - INFO - - 위험 점수: 0.4300
+2025-03-03 21:31:55,365 - __main__ - INFO - - 공감 응답: 당신의 상황에 대해 생각해보았어요. 다음과 같은 방법을 시도해보는 건 어떨까요? 미래에 대한 부정적인 감정이 있으신 것 같아요. 그런 감정을 느끼는 것은 자연스러운 일입니다.
+2025-03-03 21:31:55,365 - __main__ - INFO - - 속성별 감정:
+2025-03-03 21:31:55,365 - __main__ - INFO -   * 미래: 부정 (2건)
+2025-03-03 21:31:55,365 - __main__ - INFO - 
+2025-03-03 21:31:55,365 - __main__ - INFO - EmPath 통합 모델 훈련/평가 완료!
